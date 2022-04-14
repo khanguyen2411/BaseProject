@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="data_fragment">Data Fragment</string>
+    <string name="text_fragment">Text Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    
+    <string name="location_item_title">Title: </string>
+    <string name="location_item_location_type">Location Type: </string>
+    <string name="location_item_woe_id">Woe ID: </string>
+    <string name="location_item_latt_long">Latt Long: </string>
+    <string name="text_fragment_title">MỘT NGÀY ĐEN ĐỦI :((((</string>
+
+
+</resources>
